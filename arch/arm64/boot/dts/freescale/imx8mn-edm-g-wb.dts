@@ -11,7 +11,7 @@
 #include "imx8mn-edm-g.dtsi"
 
 / {
-	model = "TechNexion EDM-G-IMX8MN and WB baseboard";
+	model = "MACHINE";
 	compatible = "fsl,imx8mn-edm-g", "fsl,imx8mn";
 
 	leds {
